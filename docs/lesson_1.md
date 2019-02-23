@@ -26,7 +26,7 @@ There are **9** basic types in Java:
 * double
 * char
 
-+1 reference typer: **Object**
++1 reference type: **Object**
 
 ---
 # Sructure of a Java program
@@ -38,8 +38,8 @@ package hu.example;
 
 public class ExampleClass {
 
-	public static void main(String[] args) {
-    	ExampleClass exampleObject = new ExampleClass();
+    public static void main(String[] args) {
+        ExampleClass exampleObject = new ExampleClass();
     }
 }
 ```
