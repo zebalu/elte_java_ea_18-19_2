@@ -12,6 +12,8 @@ where to look for help?
 
 [Java 11](https://docs.oracle.com/javase/specs/jls/se11/html/index.html)
 
+---
+
 # Types in java
 
 There are **9** basic types in Java:
