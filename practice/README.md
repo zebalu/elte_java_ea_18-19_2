@@ -49,7 +49,7 @@ Create the following classes:
 
 Create a class called `Cage`.
 * Every `Cage` should get a type parameter what kind of `Animal` it keeps. (It should only accept `Animal`s)
-* A `Cage` should hold animals in a `Container`.
+* A `Cage` should hold animals in a `Collection`.
 * A `Cage` must have an `add` method to add more `Animal`s into it.
 * A `Cage` can tell how many `Animal` it holds
 * A `Cage` can be a __lonely__ `Cage` in this case, it can only hold __1__ `Animal`, and should raise `CageIsFullException` if somebody tries to add a new `Animal` into it.
