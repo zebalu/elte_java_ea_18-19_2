@@ -28,7 +28,7 @@ Create a miniature registry system of a Zoo.
 
 ### 1. Animal
 
-Create an `abstract` class: `Aniaml`. Every `Animal` has a name which should be not accessible directly but through access methods. `Animal` should also have an unchangeable `String` property that describes its species latin name. `Animal` should have __2__ subclasses:
+Create an `abstract` class: `Aniaml`. Every `Animal` has a name which should be not accessible directly but through access methods. `Animal` should also have an unchangeable `String` property that describes its species latin name. `Animal` should have __2__ `abstract` subclasses:
 1. Carnivore
 2. Herbivore
 
